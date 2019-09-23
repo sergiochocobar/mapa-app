@@ -3,7 +3,7 @@ var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/streets-v11',
 center: ([-77.032, 38.913]),
-zoom: 6
+zoom: 2
 });
 
 
